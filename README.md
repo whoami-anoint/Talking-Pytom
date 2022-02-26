@@ -1,4 +1,4 @@
-## Talking-Pytom
+### Talking-Pytom
 Virtual friend with python
 
 ## Getting Started
@@ -26,6 +26,6 @@ A step by step guide that will tell you how to get the development environment u
 ````
 
 ## Usage
-Simple funny projects with python can used as virtual friend.
+Simple funny project with python can used as virtual friend.
 
 @anoint.02
