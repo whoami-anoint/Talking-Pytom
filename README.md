@@ -6,7 +6,7 @@ Virtual friend with python
 These instructions will get you a idea of this kinda project and running on your local machine for development and testing purposes.
 ### Prerequisites
 
-The things you need before installing the software.
+The things you need before installing the Talking-Pytom.
 
 * python3
 * pip
